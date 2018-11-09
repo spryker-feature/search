@@ -1,0 +1,11 @@
+{
+  "name": "spryker-feature/search",
+  "description": "Search [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.1",
+    "spryker/search": "^8.3.1"
+  }
+}
