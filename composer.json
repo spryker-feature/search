@@ -7,7 +7,7 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker/search": "^8.5.0"
+    "spryker/search": "^8.6.0"
   },
   "extra": {
     "branch-alias": {
