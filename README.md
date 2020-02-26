@@ -7,3 +7,6 @@ Enables you to control search and filtering preferences and customize them in a 
 ```
 composer require spryker-feature/search
 ```
+
+## Optional modules
+- [SearchExtension ^1.0.0](https://github.com/spryker/search-extension) (Extension)
