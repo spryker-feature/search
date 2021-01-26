@@ -6,7 +6,7 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.2",
+    "php": ">=7.3",
     "spryker/elastica": "^6.0.0",
     "spryker/search": "^8.15.0",
     "spryker/search-elasticsearch": "^1.5.0",
@@ -14,7 +14,7 @@
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202009.x-dev"
+      "dev-master": "202107.x-dev"
     }
   }
 }
