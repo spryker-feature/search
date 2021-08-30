@@ -1,20 +1,20 @@
 {
-  "name": "spryker-feature/search",
-  "description": "Search [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker/elastica": "^6.0.0",
-    "spryker/search": "^8.15.0",
-    "spryker/search-elasticsearch": "^1.5.0",
-    "spryker/search-elasticsearch-gui": "^1.0.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202107.x-dev"
+    "name": "spryker-feature/search",
+    "description": "Search [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker/elastica": "^6.0.0",
+        "spryker/search": "^8.19.0",
+        "spryker/search-elasticsearch": "^1.12.0",
+        "spryker/search-elasticsearch-gui": "^1.0.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202108.x-dev"
+        }
     }
-  }
 }
