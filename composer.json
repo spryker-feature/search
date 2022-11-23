@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.4",
+        "php": ">=8.0",
         "spryker/elastica": "^6.0.0",
         "spryker/search": "^8.19.0",
         "spryker/search-elasticsearch": "^1.14.0",
