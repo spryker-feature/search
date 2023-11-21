@@ -11,4 +11,4 @@ composer require spryker-feature/search
 ```
 
 ## Optional modules
-- [SearchExtension ^1.2.0](https://github.com/spryker/search-extension) (Extension)
+- [SearchExtension ^1.3.0](https://github.com/spryker/search-extension) (Extension)
