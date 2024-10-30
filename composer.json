@@ -8,8 +8,8 @@
     "require": {
         "php": ">=8.2",
         "spryker/elastica": "^6.0.0",
-        "spryker/search": "^8.22.0",
-        "spryker/search-elasticsearch": "^1.16.0",
+        "spryker/search": "^8.23.0",
+        "spryker/search-elasticsearch": "^1.17.0",
         "spryker/search-elasticsearch-gui": "^1.0.0",
         "spryker/search-http": "^0.4.0"
     },
