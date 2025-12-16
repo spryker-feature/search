@@ -8,14 +8,14 @@
     "require": {
         "php": ">=8.2",
         "spryker/elastica": "^6.0.0",
-        "spryker/search": "^8.24.0",
-        "spryker/search-elasticsearch": "^1.18.0",
+        "spryker/search": "^8.25.0",
+        "spryker/search-elasticsearch": "^1.20.0",
         "spryker/search-elasticsearch-gui": "^2.0.0",
         "spryker/search-http": "^0.5.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202510.x-dev"
+            "dev-master": "202512.x-dev"
         }
     }
 }
